@@ -14,3 +14,11 @@ As mentioned in my **Recommendation Letter** from my English teacher:
 ## 🛠️ Tech Used
 * HTML5 & CSS3 (Animations)
 * Concept of Speech Synthesis & Interaction
+
+
+
+## 🤖 This is how the AI assistant looks:
+
+<p align="center">
+  <img src="1000112605.png" width="45%" />
+
